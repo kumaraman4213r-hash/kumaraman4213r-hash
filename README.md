@@ -102,25 +102,11 @@ A web-based system designed to manage faculty canteen orders and their complete 
 
 `Placed → Delivered → Received → Billed → Paid → Completed`
 
----
 
-### Women Safety Analysis
 
-A browser-based safety application using the **Geolocation API** to provide location-based functionality.
 
-**Technology:**
-`HTML` · `CSS` · `JavaScript` · `Geolocation API` · `LocalStorage`
 
----
 
-### Student Management System
-
-A Spring Boot based application for managing student information using a database-backed architecture.
-
-**Technology:**
-`Java` · `Spring Boot` · `Thymeleaf` · `JDBC` · `SQL`
-
----
 
 ## Learning Roadmap
 
