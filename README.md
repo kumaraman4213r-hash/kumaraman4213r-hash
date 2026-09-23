@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Kumar Aman
 
-### 🎓 Engineering Student | 💻 Java Developer in Progress | 🚀 Problem Solver
+### 🎓 Engineering Student | 💻 Java Full-Stack Developer in Progress | 🚀 Problem Solver
 
 I'm an **Engineering Student at MIT Meerut** who enjoys learning how things work and turning ideas into code.
 
-* 🔭 Currently working on improving my **Java & Data Structures & Algorithms**
-* 🌱 Learning **Web Development & Programming**
-* 💡 Interested in **Software Development & Problem Solving**
+* 🔭 Currently working on **Java, JavaScript, Spring Boot & DSA**
+* 🌱 Learning **Full-Stack Web Development & Backend Development**
+* 💡 Interested in **Software Development, REST APIs & Problem Solving**
 * 🏏 Cricket enthusiast
 * 🎧 Music lover
 * 📍 From **Bihar, India**
@@ -22,16 +22,21 @@ public class KumarAman {
     String name = "Kumar Aman";
     String role = "Engineering Student";
     String college = "MIT Meerut";
-    
+
     String[] learning = {
         "Java",
+        "JavaScript",
         "DSA",
+        "Spring Boot",
+        "REST API",
         "Web Development"
     };
 
     String[] interests = {
         "Problem Solving",
         "Software Development",
+        "Backend Development",
+        "REST API Development",
         "Cricket",
         "Music"
     };
@@ -60,31 +65,65 @@ public class KumarAman {
 ### 👨‍💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
 </p>
 
 ### 🌐 Web Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
+
+### ⚙️ Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,java" />
+</p>
+
+**Currently working with:**
+
+* ☕ Java
+* 🌱 Spring Boot
+* 🔗 REST APIs
+* 🗄️ SQL & DBMS
+* 🌐 JavaScript
+* 🧠 Data Structures & Algorithms
+* 🏗️ Object-Oriented Programming
 
 ---
 
 ## 📚 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=java,spring,javascript" />
 </p>
 
 **Focused on:**
 
-* ☕ Java
-* 🧠 Data Structures & Algorithms
-* 🔍 Problem Solving
-* 🌐 Web Development
-* 🗄️ SQL & DBMS
-* 🏗️ Object-Oriented Programming
+* ☕ **Java**
+* 🌱 **Spring Boot**
+* 🔗 **REST API Development**
+* 🟨 **JavaScript**
+* 🧠 **Data Structures & Algorithms**
+* 🔍 **Problem Solving**
+* 🌐 **Web Development**
+* 🗄️ **SQL & DBMS**
+* 🏗️ **Object-Oriented Programming**
+
+---
+
+## 🔧 Development Skills
+
+```text
+Java              █████████░
+JavaScript        ███████░░░
+Spring Boot       ███████░░░
+REST APIs         ███████░░░
+HTML & CSS        ████████░░
+SQL / DBMS        ██████░░░░
+DSA               ██████░░░░
+Git & GitHub      ███████░░░
+```
 
 ---
 
@@ -115,8 +154,10 @@ public class KumarAman {
 * [ ] Master **DSA**
 * [ ] Solve **300+ coding problems**
 * [ ] Build real-world projects
-* [ ] Improve Git & GitHub skills
+* [ ] Build **Spring Boot REST APIs**
+* [ ] Improve **JavaScript**
 * [ ] Learn backend development
+* [ ] Improve Git & GitHub skills
 * [ ] Contribute to Open Source
 
 ---
